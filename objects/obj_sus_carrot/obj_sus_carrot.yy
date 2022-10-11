@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite1",
-    "path": "sprites/Sprite1/Sprite1.yy",
+    "name": "spr_sus_carrot_r",
+    "path": "sprites/spr_sus_carrot_r/spr_sus_carrot_r.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_sus_carrot",
+  "name": "obj_sus_carrot",
   "tags": [],
   "resourceType": "GMObject",
 }

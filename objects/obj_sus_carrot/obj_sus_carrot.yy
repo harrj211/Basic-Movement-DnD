@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_sus_carrot_r",
-    "path": "sprites/spr_sus_carrot_r/spr_sus_carrot_r.yy",
+    "name": "spr_sus_carrot_walk_r",
+    "path": "sprites/spr_sus_carrot_walk_r/spr_sus_carrot_walk_r.yy",
   },
   "solid": false,
   "visible": true,
@@ -25,6 +25,7 @@
     {"isDnD":true,"eventNum":37,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":38,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":true,"eventNum":40,"eventType":5,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_cube","path":"objects/obj_cube/obj_cube.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

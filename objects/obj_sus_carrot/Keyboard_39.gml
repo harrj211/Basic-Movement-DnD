@@ -8,9 +8,9 @@ x += 3;
 
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 3F615FD1
+/// @DnDHash : 58AC0000
 /// @DnDArgument : "imageind_relative" "1"
-/// @DnDArgument : "spriteind" "spr_sus_carrot_r"
-/// @DnDSaveInfo : "spriteind" "spr_sus_carrot_r"
-sprite_index = spr_sus_carrot_r;
+/// @DnDArgument : "spriteind" "spr_sus_carrot_walk_r"
+/// @DnDSaveInfo : "spriteind" "spr_sus_carrot_walk_r"
+sprite_index = spr_sus_carrot_walk_r;
 image_index += 0;

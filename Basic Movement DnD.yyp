@@ -1,8 +1,10 @@
 {
   "resources": [
-    {"id":{"name":"obj_sus_carrot","path":"objects/obj_sus_carrot/obj_sus_carrot.yy",},"order":1,},
-    {"id":{"name":"spr_sus_carrot_r","path":"sprites/spr_sus_carrot_r/spr_sus_carrot_r.yy",},"order":0,},
-    {"id":{"name":"spr_sus_carrot_l","path":"sprites/spr_sus_carrot_l/spr_sus_carrot_l.yy",},"order":1,},
+    {"id":{"name":"obj_sus_carrot","path":"objects/obj_sus_carrot/obj_sus_carrot.yy",},"order":0,},
+    {"id":{"name":"spr_sus_carrot_walk_r","path":"sprites/spr_sus_carrot_walk_r/spr_sus_carrot_walk_r.yy",},"order":0,},
+    {"id":{"name":"spr_sus_carrot_walk_l","path":"sprites/spr_sus_carrot_walk_l/spr_sus_carrot_walk_l.yy",},"order":1,},
+    {"id":{"name":"obj_cube","path":"objects/obj_cube/obj_cube.yy",},"order":1,},
+    {"id":{"name":"spr_cube","path":"sprites/spr_cube/spr_cube.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [

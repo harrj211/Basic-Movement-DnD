@@ -14,3 +14,10 @@ x += -3;
 /// @DnDSaveInfo : "spriteind" "spr_sus_carrot_walk_l"
 sprite_index = spr_sus_carrot_walk_l;
 image_index += 0;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 033AD68B
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "lewalk"
+lewalk = 1;

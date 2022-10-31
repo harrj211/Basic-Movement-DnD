@@ -4,6 +4,13 @@
 /// @DnDArgument : "var" "walk"
 if(walk == 0)
 {
+	/// @DnDAction : YoYo Games.Instances.Set_Sprite
+	/// @DnDVersion : 1
+	/// @DnDHash : 6AB7BA87
+	/// @DnDParent : 068F9175
+	sprite_index = noone;
+	image_index = 0;
+
 	/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
 	/// @DnDVersion : 1
 	/// @DnDHash : 0B446B9C

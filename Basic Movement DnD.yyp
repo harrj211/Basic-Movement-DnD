@@ -6,6 +6,7 @@
     {"id":{"name":"obj_sus_carrot","path":"objects/obj_sus_carrot/obj_sus_carrot.yy",},"order":0,},
     {"id":{"name":"spr_sus_carrot_walk_r","path":"sprites/spr_sus_carrot_walk_r/spr_sus_carrot_walk_r.yy",},"order":0,},
     {"id":{"name":"spr_erwin_walk","path":"sprites/spr_erwin_walk/spr_erwin_walk.yy",},"order":3,},
+    {"id":{"name":"spr_erwin_stand","path":"sprites/spr_erwin_stand/spr_erwin_stand.yy",},"order":5,},
     {"id":{"name":"spr_sus_carrot_walk_l","path":"sprites/spr_sus_carrot_walk_l/spr_sus_carrot_walk_l.yy",},"order":1,},
     {"id":{"name":"obj_cube","path":"objects/obj_cube/obj_cube.yy",},"order":1,},
     {"id":{"name":"obj_erwin_walk","path":"objects/obj_erwin_walk/obj_erwin_walk.yy",},"order":2,},
